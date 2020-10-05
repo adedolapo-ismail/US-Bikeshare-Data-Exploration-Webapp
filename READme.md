@@ -23,9 +23,9 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Forks][forks-shield]][https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp/forks]
+[![Stargazers][stars-shield]][https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp/stars]
+[![Issues][issues-shield]][https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp/issues]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
