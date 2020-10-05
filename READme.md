@@ -38,7 +38,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">US Bikeshare Data Exploration Webapp</h3>
 
   <p align="center">
     This a webapp designed to explore This web app makes use of data provided by Motivate- https://www.motivateco.com/, a bike-share system provider for three major US cities in the USA - Chicago, New York City and Washington to nalayze and explore data of riders over the course of 5 years.
@@ -78,17 +78,12 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
 
 
 ### Built With
 
 * []() Python
 * []() Streamlit
-* []()
-
 
 
 <!-- GETTING STARTED -->
@@ -99,9 +94,9 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* python
+* python 3
 ```sh
-npm install npm@latest -g
+python --version
 ```
 
 ### Installation
@@ -110,9 +105,9 @@ npm install npm@latest -g
 ```sh
 git clone https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp.git
 ```
-2. Install pyhton package Streamlit
+2. Install python package Streamlit
 ```sh
-pip install streamli
+pip install streamlit
 ```
 
 
@@ -167,7 +162,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 * []() Numpy
 * []() Pandas
-* []()
 
 
 
