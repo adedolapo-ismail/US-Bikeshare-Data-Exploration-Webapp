@@ -23,9 +23,9 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Forks][forks-shield]][forks]
+[![Stargazers][stars-shield]][stars]
+[![Issues][issues-shield]][issues]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -46,11 +46,11 @@
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp.git">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp.git/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp.git/issues">Request Feature</a>
   </p>
 </p>
 
