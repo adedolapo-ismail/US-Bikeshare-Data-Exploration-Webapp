@@ -84,8 +84,6 @@
 
 * []() Python
 * []() Streamlit
-* []()
-
 
 
 <!-- GETTING STARTED -->
@@ -107,7 +105,7 @@ python --version
 ```sh
 git clone https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp.git
 ```
-2. Install pyhton package Streamlit
+2. Install python package Streamlit
 ```sh
 pip install streamlit
 ```
@@ -164,7 +162,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 * []() Numpy
 * []() Pandas
-* []()
 
 
 
