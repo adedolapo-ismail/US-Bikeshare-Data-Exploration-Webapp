@@ -23,10 +23,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks]
-[![Stargazers][stars-shield]][stars]
-[![Issues][issues-shield]][issues]
-[![MIT License][license-shield]][license-url]
+[![Forks][forks-shield]][forks-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -35,7 +32,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.intelligenttransport.com/wp-content/uploads/bike-share-1.jpg" alt="Logo" width="700" height="420">
   </a>
 
   <h3 align="center">US Bikeshare Data Exploration Webapp</h3>
@@ -48,9 +45,9 @@
     <br />
     <a href="https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp.git">View Demo</a>
     ·
-    <a href="https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp.git/issues">Report Bug</a>
+    <a href="https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp/issues">Report Bug</a>
     ·
-    <a href="https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp.git/issues">Request Feature</a>
+    <a href="https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp/issues">Request Feature</a>
   </p>
 </p>
 
@@ -141,17 +138,12 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Adedolapo Ismail - [@twitter_handle](https://twitter.com/amdorleejagz) - dolapo2509@gmail.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp.git)
 
@@ -170,9 +162,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/adedolapo-ismail/repo.svg?style=flat-square
-[contributors-url]: https://github.com/adedolapo-ismail/repo/graphs/contributors
+[contributors-url]: https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/adedolapo-ismail/repo.svg?style=flat-square
-[forks-url]: https://github.com/adedolapo-ismail/repo/network/members
+[forks-url]: https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp/network/members
 [stars-shield]: https://img.shields.io/github/stars/adedolapo-ismail/repo.svg?style=flat-square
 [stars-url]: https://github.com/adedolapo-ismail/repo/stargazers
 [issues-shield]: https://img.shields.io/github/issues/adedolapo-ismail/repo.svg?style=flat-square
